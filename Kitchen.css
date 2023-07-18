@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+}
+
+#bedob
+{
+   background-color:whitesmoke;
+   text-align: center;
+   color:cornflowerblue;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+}
+#back
+{
+    text-align:end;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    font-size: 17px;
+    font-family: monospace;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+}

@@ -1,0 +1,49 @@
+body
+{
+    background-size: cover;
+}
+h1
+{
+   font-style: italic;
+   font-weight:bolder;
+  text-align: center;
+   color:cornflowerblue;
+   font-size: 50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+}
+ #bedroom
+ {
+    color: aqua;
+    font-size:35px;
+
+ }
+ #kitchen
+ {
+    color: aqua;
+    font-size:35px;
+
+ }
+ #desk
+ {
+    color: aqua;
+    font-size:35px;
+
+ }
+#buttons
+{
+    text-align: center;
+    
+}
+.copy_right_footer
+{
+    position: fixed;
+    font-size: 17px;
+    font-family: monospace;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+}
